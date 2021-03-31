@@ -25,7 +25,7 @@ body {
     background-image :linear-gradient(315deg, #20bf55 0%, #01baef 74%);
 }
 
-.menu-space{
+.fill-remaining-space{
     flex: 1 1 auto;
 }
 
